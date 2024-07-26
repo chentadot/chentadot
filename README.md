@@ -10,6 +10,7 @@ Experienced in:
 - OpenHAB smart home system
 - Home Assistant- beginner level
 - Java Script and AngularJS - some working knowledge, also in a beginner level
+- Java, C/C++ - some experience
 
 <!---
 chentadot/chentadot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
