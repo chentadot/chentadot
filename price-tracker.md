@@ -1,6 +1,6 @@
 # Coffee Machine Price Tracker (Israel)
 
-Weekly automated price check. Prices and availability only from Israeli retailers/sites.
+Daily automated price check (switched from weekly on 2026-10-29). Prices and availability only from Israeli retailers/sites.
 
 ## Tracked products
 - Siemens EQ.300
@@ -64,6 +64,37 @@ Lowest found: **₪2,374.75** at CoffeeBreak — up from ₪1,890 last week; Esp
 | Refaeli | ₪1,870 | https://refaeli.co.il/items/7810977-ECAM220-22-GB |
 
 Lowest found: **₪1,870** at Refaeli — up from ₪1,390 last week (that sale appears to have ended).
+
+*Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
+
+---
+
+## 2026-10-29
+
+_First daily check (cadence switched from weekly today). Note: the automated runs scheduled for 2026-09-27 and 2026-10-25 both finished without actually pushing their results — this is the first update since 2026-10-02._
+
+### Siemens EQ.300
+| Retailer | Model | Price (ILS) | Link |
+|---|---|---|---|
+| ALM (א.ל.מ) | TF301E09 | ₪1,990 (unconfirmed today, last confirmed 2026-10-02) | https://www.alm.co.il/820000087.html |
+| LastPrice | TI351209RW (different sub-model) | ₪1,920 | https://www.lastprice.co.il/p/20749795/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%AA-Siemens/SIEMENS-EQ.300-TI351209RW |
+
+Lowest found: **₪1,920** (LastPrice, TI351209RW — note different sub-model from TF301E09, confirm before buying).
+
+### Philips 3300 Series LatteGo (EP3347/90)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| CoffeeBreak | ₪2,374.75 (category page shows ₪2,590) | https://www.coffeebreak.co.il/product/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%95%D7%AA-6-%D7%A1%D7%95%D7%92%D7%99-%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-philips-3300-lattego-ep334790 |
+
+Lowest found: **₪2,374.75** at CoffeeBreak — unchanged from last check. Only one Israeli store confirmed today.
+
+### De'Longhi Magnifica Start (ECAM220.22.GB)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Sterns | ₪1,890 (listed there as "Magnifica S" — confirm it's the same SKU) | https://www.sterns.co.il/products/delonghi-magnifica-ecam-220-22-gb |
+| Refaeli | ₪1,870 | https://refaeli.co.il/items/7810977-ECAM220-22-GB |
+
+Lowest found: **₪1,870** at Refaeli — unchanged from last check.
 
 *Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
 
