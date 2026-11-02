@@ -125,6 +125,15 @@ Lowest found: **₪2,374.75** at CoffeeBreak — unchanged.
 
 Lowest found: **₪1,780** at Refaeli — down from ₪1,870 last check.
 
+**Correction (added same day):** the original retailer list used for this product (Sterns, Refaeli, Brioso, Coffee4U) was too narrow and missed general retailers that also stock small appliances. A follow-up search found:
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Super-Pharm | ₪1,695 (price tied to this exact SKU with some uncertainty — page listing was noisy) | https://shop.super-pharm.co.il/Delonghi/c/b_5810mp |
+| Zap (comparison) | from ₪1,690 across listed stores | https://www.zap.co.il/model.aspx?modelid=1214764 |
+| Wisebuy (comparison) | ₪1,615–1,890 range across 10 stores | https://www.wisebuy.co.il/product.aspx?category=e-coffeemachine&productid=1214764 |
+
+Revised lowest found: **~₪1,690–1,695** (Super-Pharm / Zap), not ₪1,780. Going forward, each check should also query a comparison site (Zap/Wisebuy) and general retailers (Super-Pharm, KSP) rather than only coffee-specialty stores, to avoid missing the true lowest price.
+
 *Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
 
 ---
