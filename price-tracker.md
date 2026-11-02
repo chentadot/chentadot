@@ -100,3 +100,32 @@ Lowest found: **₪1,870** at Refaeli — unchanged from last check.
 
 ---
 
+## 2026-11-02
+
+_Manual check — the automated daily run also fired this morning but, like the two before it, finished without pushing (root cause identified: the automated run's fresh environment has no repo access attached). See chat for details on fixing this._
+
+### Siemens EQ.300
+| Retailer | Model | Price (ILS) | Link |
+|---|---|---|---|
+| ALM (א.ל.מ) | TF301E09 | ₪1,990 (unconfirmed today, last confirmed 2026-10-02) | https://www.alm.co.il/820000087.html |
+
+Lowest found: **₪1,990** (carried forward — no price text in today's search result, page needs a direct check).
+
+### Philips 3300 Series LatteGo (EP3347/90)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| CoffeeBreak | ₪2,374.75 (category page shows similar variant at ₪2,581) | https://www.coffeebreak.co.il/product/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%95%D7%AA-6-%D7%A1%D7%95%D7%92%D7%99-%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-philips-3300-lattego-ep334790 |
+
+Lowest found: **₪2,374.75** at CoffeeBreak — unchanged.
+
+### De'Longhi Magnifica Start (ECAM220.22.GB)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Refaeli | ₪1,780 (sale, reg. ₪1,990) | https://refaeli.co.il/items/7810977-ECAM220-22-GB |
+
+Lowest found: **₪1,780** at Refaeli — down from ₪1,870 last check.
+
+*Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
+
+---
+
