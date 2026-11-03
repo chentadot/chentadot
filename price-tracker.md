@@ -138,3 +138,35 @@ Revised lowest found: **~₪1,690–1,695** (Super-Pharm / Zap), not ₪1,780. G
 
 ---
 
+## 2026-11-03
+
+_First check using the widened retailer coverage (coffee-specialty + general retailers + Zap/Wisebuy comparison sites)._
+
+### Siemens EQ.300 (TF301E09)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| CoffeeMan (via Zap) | ₪1,599 | https://www.zap.co.il/model.aspx?modelid=1207092 |
+| BetterShop | ₪1,670 | https://www.bettershop.co.il/product/siemens_tf301e09/ |
+
+Lowest found: **₪1,599** (CoffeeMan, via Zap) — notably lower than the ₪1,990 previously tracked from ALM/Traklin; Zap comparison surfaced a cheaper store this time.
+
+### Philips 3300 Series LatteGo (EP3347/90)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Zap / Wisebuy (comparison) | ₪1,987 | https://www.zap.co.il/model.aspx?modelid=1227234 |
+| Pricedrop | ₪1,989 | https://pricedrop.co.il/item/314100/ |
+
+Lowest found: **₪1,987** (Zap/Wisebuy) — lower than the ₪2,374.75 (CoffeeBreak) previously tracked; same lesson as the De'Longhi, comparison sites catch stores the narrower list missed.
+
+### De'Longhi Magnifica Start (ECAM220.22.GB)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Zap (comparison) | from ₪1,690 | https://www.zap.co.il/model.aspx?modelid=1214764 |
+| Wisebuy (comparison) | ₪1,741–1,890 range across 10 stores | https://www.wisebuy.co.il/product.aspx?category=e-coffeemachine&productid=1214764 |
+
+Lowest found: **₪1,690** (Zap) — consistent with yesterday's Super-Pharm reading (₪1,695).
+
+*Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
+
+---
+
