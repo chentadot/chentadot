@@ -200,3 +200,33 @@ Lowest found: **₪1,615** (Eilat/duty-free pricing — not available to all buy
 
 ---
 
+## 2026-11-05
+
+### Siemens EQ.300 (TF301E09)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| CoffeeMan (via Zap) | ₪1,599 | https://www.zap.co.il/model.aspx?modelid=1207092 |
+| Refaeli | ₪1,649 | https://refaeli.co.il/items/7967183-TF301E09 |
+
+Lowest found: **₪1,599** — unchanged.
+
+### Philips 3300 Series LatteGo (EP3347/90)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Creama | ₪1,990 | https://creama.co.il/products/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%90%D7%A1%D7%A4%D7%A8%D7%A1%D7%95-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%AA-%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%A1-philips-3300-series-lattego-ep3347-90 |
+| CoffeeBreak | ₪2,374.75 | https://www.coffeebreak.co.il/product/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%A7%D7%A4%D7%94-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%95%D7%AA-6-%D7%A1%D7%95%D7%92%D7%99-%D7%9E%D7%A9%D7%A7%D7%90%D7%95%D7%AA-philips-3300-lattego-ep334790 |
+
+Lowest found: **₪1,990** (Creama, today's data) — Zap/Wisebuy's ₪1,987 reading (Chashmal Neto) wasn't reconfirmed today, carried as a close reference.
+
+### De'Longhi Magnifica Start (ECAM220.22.GB)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Zap, Eilat listing (duty-free) | ₪1,615 | https://www.zap.co.il/model.aspx?modelid=1214764&iseilat=true |
+| Zap, regular | from ₪1,690 | https://www.zap.co.il/model.aspx?modelid=1214764 |
+
+Lowest found: **₪1,615** (Eilat) / **₪1,690** regular — unchanged.
+
+*Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
+
+---
+
