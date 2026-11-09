@@ -358,3 +358,35 @@ Lowest found: **₪1,615** (Eilat) / **₪1,690** regular — unchanged.
 *Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
 
 ---
+
+## 2026-11-09
+
+All three products steady — no movement since yesterday.
+
+### Siemens EQ.300 (TF301E09)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| CoffeeMan (via Zap) | ₪1,599 | https://www.zap.co.il/model.aspx?modelid=1207092 |
+| Refaeli | ₪1,649 | https://refaeli.co.il/items/7967183-TF301E09 |
+
+Lowest found: **₪1,599** — unchanged. (Electro-Buy lists a ₪1,459 "private sale" listing, which is a negotiated starting offer, not a fixed price — not counted as the headline low.)
+
+### Philips 3300 Series LatteGo (EP3347/90)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Chashmal Neto (via Wisebuy/Zap) | ₪1,987 | https://www.zap.co.il/model.aspx?modelid=1227234 |
+| Creama | ₪1,990 | https://creama.co.il/products/%D7%9E%D7%9B%D7%95%D7%A0%D7%AA-%D7%90%D7%A1%D7%A4%D7%A8%D7%A1%D7%95-%D7%90%D7%95%D7%98%D7%95%D7%9E%D7%98%D7%99%D7%AA-%D7%A4%D7%99%D7%9C%D7%99%D7%A4%D7%A1-philips-3300-series-lattego-ep3347-90 |
+
+Lowest found: **₪1,987** — unchanged.
+
+### De'Longhi Magnifica Start (ECAM220.22.GB)
+| Retailer | Price (ILS) | Link |
+|---|---|---|
+| Wisebuy (comparison, lowest of 9-10 stores) | ₪1,741 | https://www.wisebuy.co.il/product.aspx?category=e-coffeemachine&productid=1214764 |
+| Zap, regular | from ₪1,690 | https://www.zap.co.il/model.aspx?modelid=1214764 |
+
+Lowest found: **₪1,690** — unchanged.
+
+*Prices found via web search snippets, not a live scrape — confirm on the retailer's page before purchasing, as stock/sale prices change fast.*
+
+---
